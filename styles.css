@@ -10,7 +10,7 @@ body{
 .blog{
     background:white;
     width: 380px;
-    border: 2px solid black;
+    border: 1px solid black;
     box-shadow: 5px 5px black;
     border-radius: 20px;
     margin-left:auto;
